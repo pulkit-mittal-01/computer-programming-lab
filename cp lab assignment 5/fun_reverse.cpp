@@ -1,6 +1,6 @@
 #include<stdio.h>
 void rev(int );
-int main()
+
 {
 	int a;
     printf("Enter number that we want to reverse:");
